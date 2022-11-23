@@ -1,0 +1,4 @@
+﻿  Lab6.4 inter.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\Lab6.4 inter\Lab6.4 inter.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\Lab6.4 inter\Lab6.4 inter.cpp(89): warning C4715: Suma: значение возвращается не при всех путях выполнения
+  Lab6.4 inter.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\x64\Debug\Lab6.4 inter.exe

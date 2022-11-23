@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Lab 6.4 inter test.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\Lab6.4 inter\Lab6.4 inter.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\Lab6.4 inter\Lab6.4 inter.cpp(89): warning C4715: Suma: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\x64\Debug\Lab 6.4 inter test.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\x64\Debug\Lab 6.4 inter test.exp
+  Lab 6.4 inter test.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.4 inter.cpp\x64\Debug\Lab 6.4 inter test.dll
